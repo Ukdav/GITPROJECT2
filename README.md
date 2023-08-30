@@ -67,7 +67,15 @@ Once installed, open Git Bash. You'll be working with a command-line interface.
 
 
 Navigate to Your Project Directory:
+
+On your terminal, create a working folder or directory e.g DevOps using this command **Mkdir DevOps**
+
 Use the cd command to navigate to the directory where you want to create your Git repository. For example:
+
+![Mkdir CD](https://github.com/Ukdav/GITPROJECT2/assets/139593350/08ef94ff-e112-4b5e-a45f-b1dd74e7c687)
+
+
+
 
 bash
 Copy code
