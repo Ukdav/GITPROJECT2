@@ -70,9 +70,12 @@ Navigate to Your Project Directory:
 
 On your terminal, create a working folder or directory e.g DevOps using this command **Mkdir DevOps**
 
-Use the cd command to navigate to the directory where you want to create your Git repository. For example:
+Use the cd command to navigate to the directory where you want to create your Git repository. For example: **cd DevOps**
 
-![Mkdir CD](https://github.com/Ukdav/GITPROJECT2/assets/139593350/08ef94ff-e112-4b5e-a45f-b1dd74e7c687)
+while you are inside the folder, run this command: **git init**
+
+![mkdir   cd   git init](https://github.com/Ukdav/GITPROJECT2/assets/139593350/b74b837f-f31a-40d8-bd66-cbad10fb3581)
+
 
 
 
