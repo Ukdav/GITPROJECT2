@@ -76,6 +76,30 @@ while you are inside the folder, run this command: **git init**
 
 ![mkdir   cd   git init](https://github.com/Ukdav/GITPROJECT2/assets/139593350/b74b837f-f31a-40d8-bd66-cbad10fb3581)
 
+Make your first commit command.
+
+In the last section, we successfully created our working directory and initialized a Git repository. Now we would make our first commit.
+
+Before making our first commit, let's try and understand what a commit is in Git. Commit is more or less saving the changes you made to your files, changing can be adding, modifying or deleting files or text.
+
+When you make a commit, Git takes a snapshot of the current state of your repository and saves a copy in the git folder inside your working directory.
+
+Now let us make our first commit by following the below steps:
+
+1. Inside your working directory, create a file index.txt with this command: **touch index.txt**
+2. Write a sentence of your choice inside the text.txt file, afterward save your changes.
+3. Add your changes to the git staging area using this command: **git add.**
+4. To commit your changes to git, run this command: **git commit -m "initial commit"**
+
+   ![toach and git add](https://github.com/Ukdav/GITPROJECT2/assets/139593350/ad8dab72-d075-47ff-8920-0bd0c8a42ade)
+
+   ![commit](https://github.com/Ukdav/GITPROJECT2/assets/139593350/195464e7-b2bf-48a8-b1c0-83618ba19296)
+
+
+
+
+
+
 
 
 
