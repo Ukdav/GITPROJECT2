@@ -66,7 +66,7 @@ Once installed, open Git Bash. You'll be working with a command-line interface.
 ![GIT BASH TERMINAL](https://github.com/Ukdav/GITPROJECT2/assets/139593350/1aa14ee6-b97c-4223-ae14-a8aa03de4952)
 
 
-Navigate to Your Project Directory:
+**Navigate to Your Project Directory:**
 
 On your terminal, create a working folder or directory e.g DevOps using this command **Mkdir DevOps**
 
@@ -76,11 +76,11 @@ while you are inside the folder, run this command: **git init**
 
 ![mkdir   cd   git init](https://github.com/Ukdav/GITPROJECT2/assets/139593350/b74b837f-f31a-40d8-bd66-cbad10fb3581)
 
-Make your first commit command.
+**Make your first commit command:**
 
 In the last section, we successfully created our working directory and initialized a Git repository. Now we would make our first commit.
 
-Before making our first commit, let's try and understand what a commit is in Git. Commit is more or less saving the changes you made to your files, changing can be adding, modifying or deleting files or text.
+Before making our first commit, let's try and understand what a commit is in Git. Commit is more or less saving the changes you made to your files; changing can be adding, modifying or deleting files or text.
 
 When you make a commit, Git takes a snapshot of the current state of your repository and saves a copy in the git folder inside your working directory.
 
@@ -96,6 +96,62 @@ Also, bear in mind that the **-m** is also used to provide a commit message, the
    ![toach and git add](https://github.com/Ukdav/GITPROJECT2/assets/139593350/ad8dab72-d075-47ff-8920-0bd0c8a42ade)
 
    ![commit](https://github.com/Ukdav/GITPROJECT2/assets/139593350/195464e7-b2bf-48a8-b1c0-83618ba19296)
+
+   **Working with Branches**
+
+   Imagine you have a notebook and you want to write different stories on different pages of your notebook so that you do not mess up your previous note.
+
+   Git branch helps you create a different copy (page) of your source code. in your new branch you can make changes as you please, your changes is independent of what is available in the main copy.
+
+   Git Branch is commonly used to develop new feature of your application, you will agree with me that the initial code is untested and such can nit be added to the code base of your live application.
+
+   Git branch is also an important tool for collaboration within remote teams (developers working from different locations). They can make separate branches while working on the same feature, And at the end of the day, coverage their code to one branch.
+
+   Make your first git branch:
+
+   To make a new branch run the command: **git checkout -b**
+
+   The -b flags help you create and changes to the new branch
+
+   with that said let's make our first branch following these steps.
+
+   1. Having made your first commit in the previous lesson
+   2. Make a new branch by running this command: **git checkout -b my-new-branch**
+   3. List your git branches using this command: **git branch**
+   4. To change into an existing or old branch use this command: git checkout main
+
+![create new branch](https://github.com/Ukdav/GITPROJECT2/assets/139593350/3a749b19-b006-4fb2-8ca1-097f0e24a838)
+
+**Merging a branch into another branch**
+
+Let's say we have two branches A and B. and we want to add the content of Branch B into A using command: **git merge B**
+
+![merge b and A](https://github.com/Ukdav/GITPROJECT2/assets/139593350/349d2199-d108-4b39-8621-71976aa3da6b)
+
+**Deleting a git branch**
+
+When a new feature is added to an application, it's often done in a feature branch. usually, this feature branch is deleted when the code must have a tested and merged into a staging or dev. environment depending on the branch strategy of the team.
+
+Git branch can be deleted with commands: **git branch -d <branch_name>**
+
+![delete branch](https://github.com/Ukdav/GITPROJECT2/assets/139593350/25c807cc-5faf-491a-9616-54ed799af036)
+
+This is by no means all that you can do with branches in git. To learn more type the command Git branch --help on your terminal.
+
+
+
+
+
+
+
+
+
+   
+   
+
+   
+
+   
 
 
 
