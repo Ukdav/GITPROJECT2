@@ -91,6 +91,8 @@ Now let us make our first commit by following the below steps:
 3. Add your changes to the git staging area using this command: **git add.**
 4. To commit your changes to git, run this command: **git commit -m "initial commit"**
 
+Also, bear in mind that the **-m** is also used to provide a commit message, the commit message is a nice way to provide context about the commit. when writing a commit message, make it as descriptive as possible, let it explain why the commit was done.
+
    ![toach and git add](https://github.com/Ukdav/GITPROJECT2/assets/139593350/ad8dab72-d075-47ff-8920-0bd0c8a42ade)
 
    ![commit](https://github.com/Ukdav/GITPROJECT2/assets/139593350/195464e7-b2bf-48a8-b1c0-83618ba19296)
@@ -104,11 +106,7 @@ Now let us make our first commit by following the below steps:
 
 
 
-bash
-Copy code
-cd /path/to/your/project/directory
-Initialize a Git Repository:
-To initialize a Git repository in the current directory, use the git init command:
+
 
 
 
