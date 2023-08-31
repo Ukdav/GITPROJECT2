@@ -136,7 +136,24 @@ Git branch can be deleted with commands: **git branch -d <branch_name>**
 
 ![delete branch](https://github.com/Ukdav/GITPROJECT2/assets/139593350/25c807cc-5faf-491a-9616-54ed799af036)
 
-This is by no means all that you can do with branches in git. To learn more type the command Git branch --help on your terminal.
+This is by no means all that you can do with branches in Git. To learn more type the command Git branch --help on your terminal
+
+**Collaboration and Remote Repositories**
+
+GitHub is a web-based platform where git repositories are hosted. by hosting our local Git repository on Git Hub. It becomes available on the public internet (it is possible to create a private repository as well). Anyone can now access it.
+
+The remote team can now view, update, and make changes to the same repository.
+
+**Pushing your local GIT Repository to your remote GitHub Repository**
+In our previous chapter, we have writing our story in our local git repository. Our friend is interested in contributing to our story but he is unable to do so because we currently have our story locally in our machine.
+
+Having created a GitHub account and a GitHub repository in earlier steps, let's send a copy of our story to our repository on GitHub
+
+We will achieve this by following the steps below:
+
+1. Add a remote repository to the local repository using the command below: **git remote add origin <link to your github repo>**
+
+
 
 
 
