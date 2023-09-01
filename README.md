@@ -152,6 +152,16 @@ Having created a GitHub account and a GitHub repository in earlier steps, let's 
 We will achieve this by following the steps below:
 
 1. Add a remote repository to the local repository using the command below: **git remote add origin <link to your github repo>**
+2. After commiting your changes in your local repo. you push the content to the remote repo using this command: **git push origin <branch name>
+
+![connecting to github repository](https://github.com/Ukdav/GITPROJECT2/assets/139593350/fa62a25d-3976-4e9b-b480-d0b2fb849fc8)
+
+![github](https://github.com/Ukdav/GITPROJECT2/assets/139593350/08961432-c40b-4031-8974-dfb80c63a6d0)
+
+
+
+
+   
 
 
 
