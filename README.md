@@ -164,6 +164,66 @@ The word origin refers to your remote repo link, it evaluates to the remote repo
 
 The git clone command helps us make a copy of the remote repository on our local machine. see it as a git tool for downloading remote repository into our local machine. The command is: **git clone <link to your remote repository>
 
+![clone command](https://github.com/Ukdav/GITPROJECT2/assets/139593350/6091b025-dc34-41ed-be9c-dcec5b54ed84)
+
+**Branch Management and Tagging**
+
+Introduction to markdown Syntax
+Markdown syntax is a lightweight markup language that is widely used for formatting plain text. It allows you to add formatting elements to your test without using complex HTML or other formatting languages. Markdown is commonly used for creating documents. Readme Files, forum posts, and even webpages.
+
+1. Headings: To create a heading, use the hash symbol at the beginning of the line. the number of hash symbol used indicate the level of the heading.
+
+# Heading 1
+
+## Heading 2
+
+### Heading 3
+
+2. Emphasis: asterisks or underscore to emphasis test
+
+*Italic*
+_italic_
+**bold**
+_bold_
+
+3. Lists: makrdown has support for both ordered and unordered list
+
+Unordered list examples:
+
+- Item 1
+- Item 2
+- Item 3
+
+Ordered List example:
+
+1. first item
+2. Second Item
+3. Third Item
+
+Links: To create a hyperlink, use square brackets for the link text followed by parentheses containing the URL.
+
+example:
+[visit darey.io](https://www.darey.io)
+
+5. Images: To display an image, use an exclamation mark followed by square brackets for the alt text and parentheses containing the image URL.
+
+![Alt Text](https://example.com/image.jpg)
+
+6. Code: To display or code snippets, use backticks (') to enclose the code
+
+example:
+'console.log ('welcome to darey.io')'
+
+As mentioned, these are the most commonly used markdown syntax elements. 
+
+
+
+
+
+
+
+
+
 
 
 
