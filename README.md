@@ -214,7 +214,7 @@ example:
 example:
 'console.log ('welcome to darey.io')'
 
-As mentioned, these are the most commonly used markdown syntax elements. 
+As mentioned, these are the most commonly used markdown syntax elements. kindly visit the link to learn more www.markdown.com
 
 
 
