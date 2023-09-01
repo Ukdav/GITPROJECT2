@@ -158,6 +158,13 @@ We will achieve this by following the steps below:
 
 ![github](https://github.com/Ukdav/GITPROJECT2/assets/139593350/08961432-c40b-4031-8974-dfb80c63a6d0)
 
+The word origin refers to your remote repo link, it evaluates to the remote repo url. it can only be any wold you choose.
+
+**Cloning Remote Git Repository**
+
+The git clone command helps us make a copy of the remote repository on our local machine. see it as a git tool for downloading remote repository into our local machine. The command is: **git clone <link to your remote repository>
+
+
 
 
 
